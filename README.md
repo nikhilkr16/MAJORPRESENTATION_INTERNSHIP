@@ -61,8 +61,7 @@ Unified documentation for **Phase 1 (mid-term)** and **Phase 2 (end-term)** of a
 
 ## Phase 2 — End-term (Brazilian e-commerce, SQL + Power BI)
 
-**Data:** [Brazilian E-Commerce public dataset (Kaggle)](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)  
-
+ 
 **Seven analytical dimensions:** Orders & Revenue · Customers · Products & Categories · Sellers · Payments · Satisfaction · **Supply Chain**
 
 **Sample themes:** near **single-purchase** behaviour, **~12–13 day** delivery averages, **late delivery** share, payment mix, seller/review dispersion.
