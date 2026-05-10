@@ -106,42 +106,6 @@ Unified documentation for **Phase 1 (mid-term)** and **Phase 2 (end-term)** of a
 
 `Microsoft Excel` · `MySQL` · `Microsoft Power BI` · `Git` / GitHub  
 
-**Example repository:** [Ritik2084/ecommerce-supplychain-analytics](https://github.com/Ritik2084/ecommerce-supplychain-analytics)
+ 
 
----
-
-## Local setup (end-term)
-
-1. Install **MySQL 8.x** and create a database (e.g. `olist_project`).  
-2. Load the nine Kaggle CSVs (see dataset page for schema).  
-3. Run analytical SQL (see project `sql/` folder if present).  
-4. Open Power BI → connect to MySQL or imported query exports → refresh.  
-
-Do **not** commit full raw CSVs to Git if they are large; use **`.gitignore`** and document download steps.
-
----
-
-## Regenerating charts (optional)
-
-If this folder includes `generate_graphs.py` and `matplotlib`:
-
-```bash
-python generate_graphs.py
-```
-
-Outputs are written to `images/` for use in LaTeX or this README.
-
----
-
-## Citation / references
-
-- Olist Brazilian E-Commerce Dataset — Kaggle.  
-- Course / internship report: see `Major_Project_Report_Nikhil_Kumar.md` or `.tex` in this workspace.
-
----
-
-## License
-
-- **README & code** you author: choose a license (e.g. MIT) on the GitHub repo.  
-- **Kaggle dataset:** follow the dataset’s terms on Kaggle.  
-- **Mid-term EV data:** not for public redistribution unless your employer approves.
+ 
