@@ -1,4 +1,4 @@
-<img width="1213" height="650" alt="image" src="https://github.com/user-attachments/assets/130363f6-fbbc-46c4-bed8-dee0476b5cba" /># Data Science & Analytics —INNOVATE BY HEXAIND (Excel → SQL → Power BI)
+# Data Science & Analytics —INNOVATE BY HEXAIND (Excel → SQL → Power BI)
 
 Unified documentation for **Phase 1 (mid-term)** and **Phase 2 (end-term)** of an AICTE-linked **Data Science & Analytics** internship (**INNOVATE BY HEXAIND**).
 
