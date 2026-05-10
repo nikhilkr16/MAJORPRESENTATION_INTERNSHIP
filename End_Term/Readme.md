@@ -7,7 +7,7 @@ This README describes the **end-term / Phase 2** work: large relational e-commer
 | Item | Detail |
 |------|--------|
 | **Focus** | Marketplace **orders, revenue, customers, sellers, payments, reviews, logistics** |
-| **Data** | **[Brazilian E-Commerce public dataset](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)** (Olist), 9 tables, **100k+ orders** scale |
+| **Data** | ** ** (Olist), 9 tables, **100k+ orders** scale |
 | **Tools** | **MySQL**, **Power BI**, **Git** for collaboration |
 | **Repo (example)** | `Ritik2084/ecommerce-supplychain-analytics` |
 
