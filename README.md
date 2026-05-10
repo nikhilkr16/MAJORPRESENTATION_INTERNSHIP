@@ -1,4 +1,4 @@
-# Data Science & Analytics —INNOVATE BY HEXAIND (Excel → SQL → Power BI)
+<img width="1213" height="650" alt="image" src="https://github.com/user-attachments/assets/130363f6-fbbc-46c4-bed8-dee0476b5cba" /># Data Science & Analytics —INNOVATE BY HEXAIND (Excel → SQL → Power BI)
 
 Unified documentation for **Phase 1 (mid-term)** and **Phase 2 (end-term)** of an AICTE-linked **Data Science & Analytics** internship (**INNOVATE BY HEXAIND**).
 
@@ -101,6 +101,12 @@ Unified documentation for **Phase 1 (mid-term)** and **Phase 2 (end-term)** of a
 ![Seller quadrant](images/ecom_seller_quadrant.png)
 
 ---
+<img width="1230" height="667" alt="image" src="https://github.com/user-attachments/assets/8ad7bc12-0e20-4d0a-8cb6-689e7592904e" />
+<img width="1296" height="677" alt="image" src="https://github.com/user-attachments/assets/a2d614fd-abd8-431a-b3e7-7a5899245bea" />
+<img width="1290" height="672" alt="image" src="https://github.com/user-attachments/assets/0ed7645d-4bac-4d49-8ca2-2d50c1b72ee0" />
+<img width="1266" height="667" alt="image" src="https://github.com/user-attachments/assets/940e7da4-6756-4bf6-9c75-ff6cf3d02b9f" />
+![Upl<img width="1213" height="650" alt="image" src="https://github.com/user-attachments/assets/14eaad32-9b3c-4e78-9c05-cfb4fd4775f3" />
+
 
 ## Tech stack
 
