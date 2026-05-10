@@ -1,4 +1,4 @@
-# End-Term Internship — Brazilian E-Commerce & Supply Chain Analytics (SQL + Power BI)
+# End-Term  —  E-Commerce & Supply Chain Analytics (SQL + Power BI)
 
 This README describes the **end-term / Phase 2** work: large relational e-commerce analytics using **MySQL** and **Microsoft Power BI**.
 
@@ -7,8 +7,8 @@ This README describes the **end-term / Phase 2** work: large relational e-commer
 | Item | Detail |
 |------|--------|
 | **Focus** | Marketplace **orders, revenue, customers, sellers, payments, reviews, logistics** |
-| **Data** | **** (Olist), 9 tables, **100k+ orders** scale |
-| **Tools** | **MySQL**, **Power BI**, **Git** for collaboration |
+| **Data** | **https://drive.google.com/drive/folders/1E_0vWRMRPzNJ44aSAROER-uB4vGu71Kg?usp=sharing** (Olist), 9 tables, **100k+ orders** scale |
+| **Tools** | **MySQL**, **Power BI**, **Git**   |
  
 ## Analytical dimensions
 
@@ -49,30 +49,6 @@ Example logic (conceptual): join `orders` → `customers`, `order_items`, `payme
 - Exported **CSV/query outputs** small enough for samples only  
 - This documentation + diagram screenshots in `/images` or `/docs/endterm`
 
-## Repository layout (suggested)
-
-```text
-ecommerce-supplychain-analytics/
-├── sql/
-│   ├── ddl/
-│   └── analytics/
-├── powerbi/
-│   └── README.md          # how to refresh data sources
-├── data/                  # DO NOT commit full CSVs — use .gitignore
-├── docs/
-├── images/
-├── README_ENDTERM.md
-└── README.md
-```
-
-## Data & licensing
-
-- Source: **Kaggle — Brazilian E-Commerce** (Olist).  
-- Follow Kaggle/dataset **license** and citation in your report; do not claim ownership of raw data.
-
-## Ethics
-
-- Dataset is already public and anonymised; still avoid asserting real company policies as facts—frame as **insights on public sample data**.
 
 ---
 
