@@ -10,7 +10,7 @@ This README describes the **end-term / Phase 2** work: large relational e-commer
 | **Data** | **https://drive.google.com/drive/folders/1E_0vWRMRPzNJ44aSAROER-uB4vGu71Kg?usp=sharing** (Olist), 9 tables, **100k+ orders** scale |
 | **Output** | **https://drive.google.com/drive/folders/16KuHTU4O1kb_XShs9i425ZVEy3JEXUrk?usp=sharing** |
 
-| **Tools** | **MySQL**, **Power BI**, **Git**   |
+| **Tools** | **SQL**(Data cleaning & KPI calculations), **Power BI** (Interactive dashboards), **Excel** (Storing query outputs & initial analysis) |
  
 ## Analytical dimensions
 
