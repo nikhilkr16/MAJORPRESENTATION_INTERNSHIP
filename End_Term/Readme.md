@@ -2,6 +2,10 @@
 
 This README describes the **end-term / Phase 2** work: large relational e-commerce analytics using **MySQL** and **Microsoft Power BI**.
 
+Overview
+https://notebooklm.google.com/notebook/058d92e9-da9e-4bd9-bf95-4ff567ec2987/artifact/fdbbb437-0662-4a16-91b7-6ec184dc94d6?utm_source=nlm_web_share&utm_medium=google_oo&utm_campaign=art_share_2&utm_content=&utm_smc=nlm_web_share_google_oo_art_share_2_
+
+
 ## Overview
 
 | Item | Detail |
