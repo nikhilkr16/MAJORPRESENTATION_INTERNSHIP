@@ -15,8 +15,8 @@ Unified documentation for **Phase 1 (mid-term)** and **Phase 2 (end-term)** of a
 
 ## Detailed docs
 
-- **[README_MIDTERM.md](README_MIDTERM.md)** — EV funnel, Excel methodology, KPIs, confidentiality  
-- **[README_ENDTERM.md](README_ENDTERM.md)** — SQL framework, Power BI, seven dimensions, supply chain queries  
+- **[README_MIDTERM.md](https://github.com/nikhilkr16/MAJORPRESENTATION_INTERNSHIP/tree/main/Mid_Term)** — EV funnel, Excel methodology, KPIs, confidentiality  
+- **[README_ENDTERM.md](https://github.com/nikhilkr16/MAJORPRESENTATION_INTERNSHIP/tree/main/End_Term)** — SQL framework, Power BI, seven dimensions, supply chain queries  
 
 ---
 
