@@ -1,4 +1,4 @@
-# Data Science & Analytics — Mid-Term + End-Term (Excel → SQL → Power BI)
+# Data Science & Analytics —INNOVATE BY HEXAIND (Excel → SQL → Power BI)
 
 Unified documentation for **Phase 1 (mid-term)** and **Phase 2 (end-term)** of an AICTE-linked **Data Science & Analytics** internship (**INNOVATE BY HEXAIND**).
 
